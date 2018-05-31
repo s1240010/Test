@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Task manager</string>
+    <string name="app_name">Test</string>
     <string name="task1">empty</string>
     <string name="edit_message">Enter a messa</string>
     <string name="button_send">Send</string>
